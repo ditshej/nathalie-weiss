@@ -14,6 +14,9 @@
     <a href="/wishlist/">
         <span>🛍️ zur Wunschliste 🛍️</span>
     </a>
+    <a href="/semesterarbeit-fs-2025/">
+        <span>📝 Anhang Semesterarbeit Lorschner Artzneibuch 📝</span>
+    </a>
 </nav>
 
 <div class="container">
