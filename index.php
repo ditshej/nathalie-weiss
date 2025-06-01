@@ -15,7 +15,7 @@
         <span>🛍️ zur Wunschliste 🛍️</span>
     </a>
     <a href="/semesterarbeit-lorscher-arzneibuch/">
-        <span>📝 Anhang Semesterarbeit Lorschner Artzneibuch 📝</span>
+        <span>📝 Anhang Semesterarbeit Lorscher Arzneibuch 📝</span>
     </a>
 </nav>
 
